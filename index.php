@@ -1,2 +1,1 @@
-<?php
-echo phpinfo();
+<?php echo "Hello from Gtihub Project One";
